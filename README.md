@@ -1,4 +1,4 @@
-# Run Registration
+# React Typescript Boilerplate
 
 A modern React TypeScript project with a well-organized structure, including CRUD functionality, Tailwind CSS, SCSS, ESLint, and Prettier.
 
@@ -92,4 +92,3 @@ npm run format
 ## License
 
 MIT
-
